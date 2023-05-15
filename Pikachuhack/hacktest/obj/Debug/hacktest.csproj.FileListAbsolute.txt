@@ -1,0 +1,14 @@
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.csproj.AssemblyReference.cache
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.csproj.SuggestedBindingRedirects.cache
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.Form1.resources
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.Properties.Resources.resources
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.csproj.GenerateResource.cache
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.csproj.CoreCompileInputs.cache
+C:\Users\gksen\source\repos\hacktest\hacktest\bin\Debug\hacktest.exe.config
+C:\Users\gksen\source\repos\hacktest\hacktest\bin\Debug\hacktest.exe
+C:\Users\gksen\source\repos\hacktest\hacktest\bin\Debug\hacktest.pdb
+C:\Users\gksen\source\repos\hacktest\hacktest\bin\Debug\Memory.dll
+C:\Users\gksen\source\repos\hacktest\hacktest\bin\Debug\Memory.xml
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.csproj.CopyComplete
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.exe
+C:\Users\gksen\source\repos\hacktest\hacktest\obj\Debug\hacktest.pdb
